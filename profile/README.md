@@ -1,2 +1,6 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=infinitydevelopment14&layout=compact&theme=highcontrast)](https://github.com/infinitydevelopment14/)
-![Infinity Development's github stats](https://github-readme-stats.vercel.app/api?username=infinitydevelopment14&count_private=true&show_icons=true&theme=highcontrast)
+<div align="center">
+        <a href="https://ko-fi.com/isgrandson"><img width="45%" src="https://github-readme-stats.vercel.app/api?username=isgrandson&layout=compact&theme=react&hide_border=true&show_icons=true"/></a>
+  <p><a href="https://discord.gg/WRknrjMZAS">
+      <img src="https://img.shields.io/discord/902467899602632745?style=for-the-badge&logo=discord&labelColor=7289da&logoColor=white&color=2c2f33&label=Discord"/>
+  </a></p>
+</div>
